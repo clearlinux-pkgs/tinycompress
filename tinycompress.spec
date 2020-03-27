@@ -4,7 +4,7 @@
 #
 Name     : tinycompress
 Version  : 1.1.8
-Release  : 1
+Release  : 2
 URL      : https://github.com/alsa-project/tinycompress/archive/v1.1.8.tar.gz
 Source0  : https://github.com/alsa-project/tinycompress/archive/v1.1.8.tar.gz
 Summary  : No detailed summary available
